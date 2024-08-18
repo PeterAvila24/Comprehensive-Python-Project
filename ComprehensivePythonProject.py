@@ -1,8 +1,9 @@
 import json
 import logging 
+import csv
 from data_structures import Student, Course, LinkedList, BinarySearchTree
 from exceptions import CourseNotFoundError, StudentNotFoundError, InvalidGradeError
-from database import insert_course, insert_student, get_courses, get_students_in_course
+from database import create_tables, insert_course, insert_student, get_courses, get_students_in_course, remove_student
 
 logging.basicConfig(
     filename='student_management_system.log',
@@ -10,6 +11,31 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
+def export_data(courses, filename="export_data.csv"):
+    with open(filename, 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(['Course ID', 'Course Name', 'Student ID', 'Student Name', 'Grades'])
+        for course_id, course in courses.items():
+            for student in course.list_students():
+                writer.writerow([course_id, course.course_name, student.student_id, student.name, ','.join(map(str, student.grades))])
+    
+    print(f"Data exported to {filename} successfully")
+
+def import_data(filename="export_data.csv"):
+    courses = {}
+    with open(filename, 'r') as file:
+        reader = csv.reader(file)
+        next(reader)
+        for row in reader:
+            course_id, course_name, student_id, student_name, grades = row
+            if course_id not in courses:
+                courses[course_id] = Course(course_id, course_name)
+                student = Student(student_id, student_name)
+                student.grades = list(map(float, grades.split(',')))
+                courses[course_id].add_student(student)
+    
+    print(f"Data imported from {filename} successfully")
+    return courses
 
 def add_course(courses):
     course_id = input("Enter Course ID: ")
@@ -137,6 +163,7 @@ def remove_student_from_course(courses, transacation_history):
     if student is None:
         raise StudentNotFoundError("Student ID not found in this Course.")
     else:
+        remove_student(student_id)
         course.remove_student(student_id)
         transacation_history.append(f"Removed Student {student.name} (ID: {student_id} from course {course.course_name})")
         print(f"Student '{student.name}' removed from course '{course.course_name}' successfully!")
@@ -250,13 +277,16 @@ def main():
         print("11. Update Student Information")
         print("12. Save Data")
         print("13. Load Data")
-        print("14. Exit")
+        print("14. Export Data")
+        print("15. Import Data")
+        print("16. Exit")
 
         choice = input("Enter your choice: ")
 
         try:
 
             if choice == '1':
+                create_tables()
                 add_course(courses)
             elif choice == '2':
                 add_student_to_course(courses, transaction_history)
@@ -283,6 +313,10 @@ def main():
             elif choice == '13':
                 courses = load_data(filename)
             elif choice == '14':
+                export_data(courses)
+            elif choice == '15':
+                courses = import_data()
+            elif choice == '16':
                 save_data(courses, filename)
                 print("Exiting...")
 
