@@ -1,21 +1,32 @@
 from cryptography.fernet import Fernet
 
+# Generate a key
 def generate_key():
     key = Fernet.generate_key()
     with open("secret.key", "wb") as key_file:
         key_file.write(key)
 
+# Load the key
 def load_key():
     return open("secret.key", "rb").read()
 
-def encrypt_message(message):
+# Encrypt data
+def encrypt_data(data):
     key = load_key()
     f = Fernet(key)
-    encrypted_message = f.encrypt(message.encode())
-    return encrypted_message
+    encrypted_data = f.encrypt(data.encode())
+    return encrypted_data
 
-def decrypt_message(encrypted_message):
+# Decrypt data
+def decrypt_data(encrypted_data):
     key = load_key()
     f = Fernet(key)
-    decrypted_message = f.decrypt(encrypted_message).decode()
-    return decrypted_message
+    decrypted_data = f.decrypt(encrypted_data).decode()
+    return decrypted_data
+
+# Example usage
+generate_key()
+encrypted = encrypt_data("Sensitive Information")
+print(f"Encrypted: {encrypted}")
+decrypted = decrypt_data(encrypted)
+print(f"Decrypted: {decrypted}")

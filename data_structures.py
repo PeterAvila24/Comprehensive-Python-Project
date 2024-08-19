@@ -1,3 +1,28 @@
+from cryptography.fernet import Fernet
+
+# Generate a key (only needs to be done once)
+def generate_key():
+    key = Fernet.generate_key()
+    with open("secret.key", "wb") as key_file:
+        key_file.write(key)
+
+# Load the key
+def load_key():
+    return open("secret.key", "rb").read()
+
+# Encrypt data
+def encrypt_data(data):
+    key = load_key()
+    f = Fernet(key)
+    encrypted_data = f.encrypt(data.encode())
+    return encrypted_data
+
+# Decrypt data
+def decrypt_data(encrypted_data):
+    key = load_key()
+    f = Fernet(key)
+    decrypted_data = f.decrypt(encrypted_data).decode()
+    return decrypted_data
 
 class Student:
 
@@ -7,9 +32,13 @@ class Student:
         self.grades = []
 
     def add_grades(self, grade):
+        encrypted_grade = encrypt_data(str(grade))
         self.grades.append(grade)
 
     def get_average_grade(self):
+        if not self.encrypted_grade:
+            return 0
+        decrypted_grades = [int(decrypt_data(grade)) for grade in self.encrypted_grades]
         return sum(self.grades) / len(self.grades) if self.grades else 0
         
     def __str__(self):
