@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Courses</title>
+</head>
+<body>
+    <h1>Manage Courses</h1>
+    <ul>
+        {% for course in courses %}
+        <li>{{ course.course_name }} (ID: {{ course.course_id }})</li>
+        {% endfor %}
+    </ul>
+    <form action="{{ url_for('manage_courses') }}" method="post">
+        <h2>Add New Course</h2>
+        <label for="course_id">Course ID:</label>
+        <input type="text" id="course_id" name="course_id" required><br>
+        <label for="course_name">Course Name:</label>
+        <input type="text" id="course_name" name="course_name" required><br>
+        <input type="submit" value="Add Course">
+    </form>
+    <form action="{{ url_for('manage_courses') }}" method="post">
+        <h2>Remove Course</h2>
+        <label for="remove_id">Course ID:</label>
+        <input type="text" id="remove_id" name="remove_id" required><br>
+        <input type="submit" value="Remove Course">
+    </form>
+    <a href="{{ url_for('index') }}">Back to Home</a>
+</body>
+</html>

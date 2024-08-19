@@ -1,2 +1,345 @@
-2024-08-18 18:55:38,043 - INFO - Course 'bio' added with ID 123
-2024-08-18 18:55:41,267 - INFO - Student jen (ID: 321) added to course 'bio'
+2024-08-18 19:14:12,092 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:14:12,445 - WARNING -  * Debugger is active!
+2024-08-18 19:14:12,454 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:14:12,473 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:14:22,813 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:14:22,814 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:14:22,814 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:14:23,842 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:15:21,115 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:15:44,546 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:15:44,936 - WARNING -  * Debugger is active!
+2024-08-18 19:15:44,945 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:15:44,965 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:15:58,524 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:15:58,525 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:15:58,525 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:15:58,525 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:15:59,551 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:15:59,929 - WARNING -  * Debugger is active!
+2024-08-18 19:15:59,938 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:15:59,959 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:16:00,065 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:00,065 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:00,065 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:00,066 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:01,499 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:16:01,848 - WARNING -  * Debugger is active!
+2024-08-18 19:16:01,857 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:16:01,878 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:16:03,638 - INFO - 127.0.0.1 - - [18/Aug/2024 19:16:03] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:16:18,867 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:18,867 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:18,867 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:19,894 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:16:20,277 - WARNING -  * Debugger is active!
+2024-08-18 19:16:20,286 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:16:20,306 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:16:20,407 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:20,408 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:20,408 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:20,408 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:21,825 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:16:22,201 - WARNING -  * Debugger is active!
+2024-08-18 19:16:22,211 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:16:22,232 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:16:39,127 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:39,132 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:39,133 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:39,133 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:16:40,153 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:16:40,517 - WARNING -  * Debugger is active!
+2024-08-18 19:16:40,527 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:16:40,548 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:16:43,021 - INFO -  * Detected change in 'C:\\Users\\avila\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2024-08-18 19:16:43,023 - INFO -  * Detected change in 'C:\\Users\\avila\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+2024-08-18 19:16:43,027 - INFO -  * Detected change in 'C:\\Users\\avila\\anaconda3\\Lib\\site-packages\\flask\\templating.py', reloading
+2024-08-18 19:16:43,027 - INFO -  * Detected change in 'C:\\Users\\avila\\anaconda3\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2024-08-18 19:16:43,028 - INFO -  * Detected change in 'C:\\Users\\avila\\anaconda3\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2024-08-18 19:16:43,029 - INFO - 127.0.0.1 - - [18/Aug/2024 19:16:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 19:16:43,036 - INFO - 127.0.0.1 - - [18/Aug/2024 19:16:43] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:16:43,037 - INFO - 127.0.0.1 - - [18/Aug/2024 19:16:43] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:16:43,037 - INFO - 127.0.0.1 - - [18/Aug/2024 19:16:43] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:16:43,071 - INFO - 127.0.0.1 - - [18/Aug/2024 19:16:43] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:16:43,083 - INFO - 127.0.0.1 - - [18/Aug/2024 19:16:43] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:16:43,096 - INFO - 127.0.0.1 - - [18/Aug/2024 19:16:43] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:16:44,101 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:16:44,454 - WARNING -  * Debugger is active!
+2024-08-18 19:16:44,463 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:16:44,483 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:17:30,036 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:17:30,381 - WARNING -  * Debugger is active!
+2024-08-18 19:17:30,390 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:17:30,409 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:18:52,109 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:18:52,109 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:18:52,109 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:18:53,125 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:18:54,739 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:20:50,775 - WARNING -  * Debugger is active!
+2024-08-18 19:20:50,784 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:20:50,803 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:20:55,035 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 19:20:55,042 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,042 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,042 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,059 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,059 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,079 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,502 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 19:20:55,508 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,509 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,509 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,523 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,532 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,543 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,834 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 19:20:55,840 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,840 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,841 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,855 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,860 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,872 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,982 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 19:20:55,991 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,991 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:55,992 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:55] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,008 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,016 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,027 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,123 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 19:20:56,129 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,130 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,130 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,145 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,152 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,163 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,262 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 19:20:56,269 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,270 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,271 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,284 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,292 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:20:56,303 - INFO - 127.0.0.1 - - [18/Aug/2024 19:20:56] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:25:12,493 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:25:12,841 - WARNING -  * Debugger is active!
+2024-08-18 19:25:12,850 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:25:12,869 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:26:35,890 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:26:35,890 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:26:35,895 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:26:35,896 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:26:36,920 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:26:37,265 - WARNING -  * Debugger is active!
+2024-08-18 19:26:37,274 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:26:37,294 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:26:38,233 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:26:38,239 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:26:38,239 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:26:38,239 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:26:39,271 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:26:39,643 - WARNING -  * Debugger is active!
+2024-08-18 19:26:39,653 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:26:39,674 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:27:06,422 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:27:06,422 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:27:06,423 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:27:06,423 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:27:07,445 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:27:07,798 - WARNING -  * Debugger is active!
+2024-08-18 19:27:07,808 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:27:07,827 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:27:08,749 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:27:08,754 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:27:08,754 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:27:09,780 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:27:17,711 - INFO -  * Restarting with windowsapi reloader
+2024-08-18 19:27:18,059 - WARNING -  * Debugger is active!
+2024-08-18 19:27:18,068 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:27:18,087 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:27:55,686 - WARNING -  * Debugger is active!
+2024-08-18 19:27:55,695 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:27:55,715 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:27:58,818 - INFO - 127.0.0.1 - - [18/Aug/2024 19:27:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 19:27:58,825 - INFO - 127.0.0.1 - - [18/Aug/2024 19:27:58] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:27:58,825 - INFO - 127.0.0.1 - - [18/Aug/2024 19:27:58] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:27:58,826 - INFO - 127.0.0.1 - - [18/Aug/2024 19:27:58] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:27:58,840 - INFO - 127.0.0.1 - - [18/Aug/2024 19:27:58] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:27:58,843 - INFO - 127.0.0.1 - - [18/Aug/2024 19:27:58] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:27:58,862 - INFO - 127.0.0.1 - - [18/Aug/2024 19:27:58] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:28:21,970 - INFO - 127.0.0.1 - - [18/Aug/2024 19:28:21] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:28:21,985 - INFO - 127.0.0.1 - - [18/Aug/2024 19:28:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-18 19:28:40,021 - INFO - 127.0.0.1 - - [18/Aug/2024 19:28:40] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:28:52,838 - INFO - 127.0.0.1 - - [18/Aug/2024 19:28:52] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:28:56,457 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:28:56,462 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:28:56,462 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:28:57,212 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:28:57,217 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:28:57,217 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:28:57,217 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:28:58,598 - WARNING -  * Debugger is active!
+2024-08-18 19:28:58,607 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:28:58,627 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:29:01,293 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:01] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:29:03,050 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:03] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:29:04,305 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:04] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:29:52,880 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:52] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:29:54,804 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:54] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:29:56,886 - INFO -  * Detected change in 'C:\\Users\\avila\\anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\debug.cpython-38.pyc', reloading
+2024-08-18 19:29:56,901 - INFO -  * Detected change in 'C:\\Users\\avila\\anaconda3\\Lib\\site-packages\\jinja2\\_compat.py', reloading
+2024-08-18 19:29:56,902 - INFO -  * Detected change in 'C:\\Users\\avila\\anaconda3\\Lib\\site-packages\\flask\\helpers.py', reloading
+2024-08-18 19:29:56,904 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:56] "[35m[1mGET /students HTTP/1.1[0m" 500 -
+2024-08-18 19:29:56,904 - INFO -  * Detected change in 'C:\\Users\\avila\\anaconda3\\Lib\\site-packages\\werkzeug\\routing.py', reloading
+2024-08-18 19:29:56,911 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:56] "[37mGET /students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:29:56,911 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:56] "[37mGET /students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:29:56,912 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:56] "[37mGET /students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:29:56,930 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:56] "[37mGET /students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:29:56,944 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:56] "[37mGET /students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:29:56,961 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:56] "[37mGET /students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:29:58,301 - WARNING -  * Debugger is active!
+2024-08-18 19:29:58,310 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:29:58,332 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:29:58,782 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:58] "[35m[1mGET /courses HTTP/1.1[0m" 500 -
+2024-08-18 19:29:58,789 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:58] "[37mGET /courses?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:29:58,789 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:58] "[37mGET /courses?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:29:58,789 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:58] "[37mGET /courses?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:29:58,806 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:58] "[37mGET /courses?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:29:58,818 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:58] "[37mGET /courses?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:29:58,830 - INFO - 127.0.0.1 - - [18/Aug/2024 19:29:58] "[37mGET /courses?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:30:36,836 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:36] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:30:37,836 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:37] "[35m[1mGET /students HTTP/1.1[0m" 500 -
+2024-08-18 19:30:37,845 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:37] "[37mGET /students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:30:37,845 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:37] "[37mGET /students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:30:37,845 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:37] "[37mGET /students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:30:37,861 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:37] "[37mGET /students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:30:37,882 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:37] "[37mGET /students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:30:39,433 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:39] "[35m[1mGET /courses HTTP/1.1[0m" 500 -
+2024-08-18 19:30:39,440 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:39] "[37mGET /courses?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:30:39,440 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:39] "[37mGET /courses?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:30:39,441 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:39] "[37mGET /courses?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:30:39,455 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:39] "[37mGET /courses?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:30:39,464 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:39] "[37mGET /courses?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:30:48,915 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:30:48,915 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:30:48,916 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:30:48,916 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:30:50,313 - WARNING -  * Debugger is active!
+2024-08-18 19:30:50,322 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:30:50,342 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:30:50,745 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:30:50,746 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:30:50,746 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:30:50,746 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:30:52,150 - WARNING -  * Debugger is active!
+2024-08-18 19:30:52,160 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:30:52,180 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:30:54,384 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:54] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:30:54,870 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:54] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:30:55,745 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:55] "[35m[1mGET /students HTTP/1.1[0m" 500 -
+2024-08-18 19:30:55,753 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:55] "[37mGET /students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:30:55,753 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:55] "[37mGET /students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:30:55,754 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:55] "[37mGET /students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:30:55,771 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:55] "[37mGET /students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:30:55,771 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:55] "[37mGET /students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:30:57,185 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:57] "[35m[1mGET /courses HTTP/1.1[0m" 500 -
+2024-08-18 19:30:57,193 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:57] "[37mGET /courses?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:30:57,193 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:57] "[37mGET /courses?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:30:57,194 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:57] "[37mGET /courses?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:30:57,208 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:57] "[37mGET /courses?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:30:57,209 - INFO - 127.0.0.1 - - [18/Aug/2024 19:30:57] "[37mGET /courses?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:31:53,271 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:31:53,276 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:31:53,276 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:31:53,276 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:31:54,661 - WARNING -  * Debugger is active!
+2024-08-18 19:31:54,670 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:31:54,690 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:31:57,651 - INFO - 127.0.0.1 - - [18/Aug/2024 19:31:57] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:31:58,434 - INFO - 127.0.0.1 - - [18/Aug/2024 19:31:58] "[35m[1mGET /students HTTP/1.1[0m" 500 -
+2024-08-18 19:31:58,442 - INFO - 127.0.0.1 - - [18/Aug/2024 19:31:58] "[37mGET /students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:31:58,442 - INFO - 127.0.0.1 - - [18/Aug/2024 19:31:58] "[37mGET /students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:31:58,442 - INFO - 127.0.0.1 - - [18/Aug/2024 19:31:58] "[37mGET /students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:31:58,456 - INFO - 127.0.0.1 - - [18/Aug/2024 19:31:58] "[37mGET /students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:31:58,463 - INFO - 127.0.0.1 - - [18/Aug/2024 19:31:58] "[37mGET /students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:32:00,261 - INFO - 127.0.0.1 - - [18/Aug/2024 19:32:00] "[35m[1mGET /courses HTTP/1.1[0m" 500 -
+2024-08-18 19:32:00,267 - INFO - 127.0.0.1 - - [18/Aug/2024 19:32:00] "[37mGET /courses?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:32:00,267 - INFO - 127.0.0.1 - - [18/Aug/2024 19:32:00] "[37mGET /courses?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:32:00,268 - INFO - 127.0.0.1 - - [18/Aug/2024 19:32:00] "[37mGET /courses?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:32:00,284 - INFO - 127.0.0.1 - - [18/Aug/2024 19:32:00] "[37mGET /courses?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:32:00,290 - INFO - 127.0.0.1 - - [18/Aug/2024 19:32:00] "[37mGET /courses?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:32:11,318 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:32:11,318 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:32:11,323 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:32:11,323 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:32:12,736 - WARNING -  * Debugger is active!
+2024-08-18 19:32:12,745 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:32:12,765 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:34:37,276 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:34:37,281 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:34:37,281 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:34:37,282 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:34:38,684 - WARNING -  * Debugger is active!
+2024-08-18 19:34:38,693 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:34:38,714 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:34:42,991 - INFO - 127.0.0.1 - - [18/Aug/2024 19:34:42] "[33mGET /students HTTP/1.1[0m" 404 -
+2024-08-18 19:34:45,164 - INFO - 127.0.0.1 - - [18/Aug/2024 19:34:45] "[33mGET /courses HTTP/1.1[0m" 404 -
+2024-08-18 19:35:15,328 - INFO - 127.0.0.1 - - [18/Aug/2024 19:35:15] "[33mGET /students HTTP/1.1[0m" 404 -
+2024-08-18 19:38:50,285 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:38:50,290 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:38:50,290 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:38:50,291 - INFO -  * Detected change in 'C:\\Users\\avila\\Documents\\GitHub\\Comprehensive Python Project\\app.py', reloading
+2024-08-18 19:38:52,417 - WARNING -  * Debugger is active!
+2024-08-18 19:38:52,426 - INFO -  * Debugger PIN: 239-805-334
+2024-08-18 19:38:52,448 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-08-18 19:38:55,509 - INFO - 127.0.0.1 - - [18/Aug/2024 19:38:55] "[33mGET /students HTTP/1.1[0m" 404 -
+2024-08-18 19:38:56,890 - INFO - 127.0.0.1 - - [18/Aug/2024 19:38:56] "[33mGET /courses HTTP/1.1[0m" 404 -
+2024-08-18 19:39:03,026 - INFO - 127.0.0.1 - - [18/Aug/2024 19:39:03] "[33mGET /courses HTTP/1.1[0m" 404 -
+2024-08-18 19:39:04,476 - INFO - 127.0.0.1 - - [18/Aug/2024 19:39:04] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:41:59,459 - INFO - 127.0.0.1 - - [18/Aug/2024 19:41:59] "[35m[1mGET /manage_students HTTP/1.1[0m" 500 -
+2024-08-18 19:41:59,466 - INFO - 127.0.0.1 - - [18/Aug/2024 19:41:59] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:41:59,467 - INFO - 127.0.0.1 - - [18/Aug/2024 19:41:59] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:41:59,467 - INFO - 127.0.0.1 - - [18/Aug/2024 19:41:59] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:41:59,485 - INFO - 127.0.0.1 - - [18/Aug/2024 19:41:59] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:41:59,500 - INFO - 127.0.0.1 - - [18/Aug/2024 19:41:59] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:41:59,516 - INFO - 127.0.0.1 - - [18/Aug/2024 19:41:59] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:42:06,129 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:06] "[35m[1mGET /manage_students HTTP/1.1[0m" 500 -
+2024-08-18 19:42:06,136 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:06] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:42:06,137 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:06] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:42:06,137 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:06] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:42:06,152 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:06] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:42:06,160 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:06] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:42:08,202 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:08] "[35m[1mGET /manage_courses HTTP/1.1[0m" 500 -
+2024-08-18 19:42:08,208 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:08] "[37mGET /manage_courses?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:42:08,209 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:08] "[37mGET /manage_courses?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:42:08,209 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:08] "[37mGET /manage_courses?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:42:08,227 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:08] "[37mGET /manage_courses?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:42:08,240 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:08] "[37mGET /manage_courses?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:42:08,253 - INFO - 127.0.0.1 - - [18/Aug/2024 19:42:08] "[37mGET /manage_courses?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:43:41,091 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:41] "[37mGET /manage_courses?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:43:42,568 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:42] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:43:43,708 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:43] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:43:45,225 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:45] "[35m[1mGET /manage_students HTTP/1.1[0m" 500 -
+2024-08-18 19:43:45,232 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:45] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:43:45,233 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:45] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:43:45,233 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:45] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:43:45,250 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:45] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:43:45,260 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:45] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:43:50,950 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:50] "[37mGET /manage_courses HTTP/1.1[0m" 200 -
+2024-08-18 19:43:53,251 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:53] "[35m[1mGET /manage_students HTTP/1.1[0m" 500 -
+2024-08-18 19:43:53,258 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:53] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:43:53,258 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:53] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:43:53,259 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:53] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:43:53,276 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:53] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:43:53,276 - INFO - 127.0.0.1 - - [18/Aug/2024 19:43:53] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:44:01,721 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:01] "[35m[1mGET /manage_students HTTP/1.1[0m" 500 -
+2024-08-18 19:44:01,729 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:01] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2024-08-18 19:44:01,730 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:01] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2024-08-18 19:44:01,730 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:01] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2024-08-18 19:44:01,746 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:01] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2024-08-18 19:44:01,747 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:01] "[37mGET /manage_students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2024-08-18 19:44:03,386 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:03] "[37mGET /manage_courses HTTP/1.1[0m" 200 -
+2024-08-18 19:44:30,031 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:30] "[37mGET / HTTP/1.1[0m" 200 -
+2024-08-18 19:44:30,858 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:30] "[37mGET /manage_courses HTTP/1.1[0m" 200 -
+2024-08-18 19:44:32,160 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:32] "[37mGET /manage_students HTTP/1.1[0m" 200 -
+2024-08-18 19:44:35,769 - INFO - 127.0.0.1 - - [18/Aug/2024 19:44:35] "[37mGET / HTTP/1.1[0m" 200 -

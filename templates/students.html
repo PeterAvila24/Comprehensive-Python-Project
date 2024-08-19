@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Students</title>
+</head>
+<body>
+    <h1>Manage Students</h1>
+    <ul>
+        {% for student in students %}
+        <li>{{ student.name }} (ID: {{ student.student_id }}) - Avg. Grade: {{ student.get_average_grade() }}</li>
+        {% endfor %}
+    </ul>
+    <form action="{{ url_for('manage_students') }}" method="post">
+        <h2>Add New Student</h2>
+        <label for="student_id">Student ID:</label>
+        <input type="text" id="student_id" name="student_id" required><br>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br>
+        <input type="submit" value="Add Student">
+    </form>
+    <form action="{{ url_for('manage_students') }}" method="post">
+        <h2>Remove Student</h2>
+        <label for="remove_id">Student ID:</label>
+        <input type="text" id="remove_id" name="remove_id" required><br>
+        <input type="submit" value="Remove Student">
+    </form>
+    <a href="{{ url_for('index') }}">Back to Home</a>
+</body>
+</html>

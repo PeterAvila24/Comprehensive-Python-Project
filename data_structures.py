@@ -1,4 +1,4 @@
-from cryptography.fernet import Fernet
+"""from cryptography.fernet import Fernet
 
 # Generate a key (only needs to be done once)
 def generate_key():
@@ -23,7 +23,7 @@ def decrypt_data(encrypted_data):
     f = Fernet(key)
     decrypted_data = f.decrypt(encrypted_data).decode()
     return decrypted_data
-
+"""
 class Student:
 
     def __init__(self, student_id, name):
@@ -32,13 +32,13 @@ class Student:
         self.grades = []
 
     def add_grades(self, grade):
-        encrypted_grade = encrypt_data(str(grade))
+        #encrypted_grade = encrypt_data(str(grade))
         self.grades.append(grade)
 
     def get_average_grade(self):
-        if not self.encrypted_grade:
-            return 0
-        decrypted_grades = [int(decrypt_data(grade)) for grade in self.encrypted_grades]
+        #if not self.encrypted_grade:
+        #    return 0
+        #decrypted_grades = [int(decrypt_data(grade)) for grade in self.encrypted_grades]
         return sum(self.grades) / len(self.grades) if self.grades else 0
         
     def __str__(self):
